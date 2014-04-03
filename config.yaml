@@ -1,0 +1,6 @@
+---
+name: favicon
+version: 1
+libraries:
+- name: tornado
+  version: "2.4.1"
